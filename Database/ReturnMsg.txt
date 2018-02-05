@@ -1,0 +1,14 @@
+Night (VHPS  - SC  - 2007); 60; Ayers; 13; to Borrow; Declined; false
+Adventures of Huckleberry Finn (Perfection Learning - HC); 9; Bill; 13; to Borrow; Accepted; true
+Adventures of Huckleberry Finn (Perfection Learning - HC); 9; Ayers; 13; to Borrow; Accepted; true
+Cry, the Beloved Country (Scribner - SC); 35; Ayers; 3; to Borrow; Declined; false
+American Childhood, An(Harper - SC - 2010); 12; Ayers; 3; to Return; Accepted; true
+Black Boy (Harper Perennial Classic - SC - 98/05); 12; Bill; 4; to Return; Accepted; true
+Black Boy (Harper Perennial Classic - SC - 98/05); 12; Bill; 4; to Return; Accepted; true
+Black Boy (Harper Perennial Classic - SC - 98/05); 12; Bill; 4; to Return; Accepted; true
+American Childhood, An(Harper - SC - 2010); 12; Bill; 3; to Return; Accepted; trueBlack Boy (Harper Perennial Classic - SC - 98/05); 12; Bill; 4; to Return; Accepted; true
+Night (VHPS  - SC  - 2007); 60; Ayers; 13; to Borrow; Accepted; true
+Adventures of Huck Finn w/Reader's Guide (Amsco - HC/SC - white); 12; Bill; 2; to Borrow; Accepted; true
+Night (VHPS  - SC  - 2007); 60; Ayers; 13; to Borrow; Accepted; true
+Absolutely True Diary of a Part-Time Indian (Little, Brown, Co., 2009 - SC); 12; Bill; 4; to Borrow; Accepted; true
+Night (VHPS  - SC  - 2007); 60; Ayers; 13; to Borrow; Accepted; true
